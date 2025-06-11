@@ -2,7 +2,7 @@
 
 ---
 
-[点击此处查看中文文档]()
+[点击此处查看中文文档](https://github.com/b1narypoet/RME_X64_UVM/blob/main/README_CN.md)
 
 ### 1.Introduction
 

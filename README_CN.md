@@ -2,7 +2,7 @@
 
 ---
 
-[Click here for EN version]()
+[Click here for EN version](https://github.com/b1narypoet/RME_X64_UVM/blob/main/README.md)
 
 ### 1.介绍
 
