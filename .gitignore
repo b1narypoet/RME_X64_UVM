@@ -2,3 +2,5 @@
 *.asm
 *.bin
 .DS_Store
+*.d
+*.o
